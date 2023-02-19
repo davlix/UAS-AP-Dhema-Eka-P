@@ -1,7 +1,7 @@
 # UAS-AP-Dhema-Eka-P
-Nama  : Dhema Eka Priantara
-Nim   : 220401010017
-Kelas : IT-102
+Nama  : Dhema Eka Priantara\
+Nim   : 220401010017\
+Kelas : IT-102\
 ----------------------------------------------------------------------------------------------------------------------------------------
 Nomor 1
 Program di atas merupakan program C++ yang menggunakan array 2 dimensi untuk menyimpan nilai. Program ini memiliki beberapa fitur, yaitu:
